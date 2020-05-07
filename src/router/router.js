@@ -12,5 +12,8 @@ export default [{
     }, {
         path: '/score',
         component: r => require.ensure([], () => r(require('../page/score')), 'score')
+    }, {
+      path: '/music',
+      component: r => require.ensure([], () => r(require('../page/music')), 'music')
     }]
 }]

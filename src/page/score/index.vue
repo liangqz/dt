@@ -6,7 +6,7 @@
         </div>
 <!--        <div class="share_button" @click="showCover"></div>-->
         <div class="share_code">
-            <header @click="showCover" class="share_header">关注链康，获取最新信息。</header>
+            <header @click="showCover" class="share_header">关注链康，获取最新信息</header>
         </div>
 <!--        <div class="share_cover" v-show="showHide" @click="showCover">-->
 <!--            <img src="../../images/5-2.png" class="share_img">-->
